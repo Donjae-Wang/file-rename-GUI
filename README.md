@@ -22,3 +22,8 @@ you can use $+num to get what you want to keep in the "replace" part
 for example 
 
 (.+?)(\d) You can use $0 $1 to extract the contents of the first and second parentheses respectively
+
+
+欢迎大家在issues中向我提交bug，感谢~
+
+Welcome to submit bugs to me in issues, thanks ~

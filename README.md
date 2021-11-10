@@ -10,7 +10,7 @@ replace中可以使用“`$+数字`”来保留find中括号内的内容
 re mode:   
 you can use `$+num` to get what you want to keep in the "replace" part  
    
-如 `(.+?)(\d)`，可以用`$0 $1`分别提取第一个括号内和第二个括号内的内容进行保留  
+如 `(.+?)(\d)`，可以用`$1 $2`分别提取第一个括号内和第二个括号内的内容进行保留  
 for example  
 `(.+?)(\d)` You can use `$0 $1` to extract the contents of the first and second parentheses respectively   
   

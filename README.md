@@ -12,7 +12,7 @@ you can use `$+num` to get what you want to keep in the "replace" part
    
 如 `(.+?)(\d)`，可以用`$1 $2`分别提取第一个括号内和第二个括号内的内容进行保留  
 for example  
-`(.+?)(\d)` You can use `$0 $1` to extract the contents of the first and second parentheses respectively   
+`(.+?)(\d)` You can use `$1 $2` to extract the contents of the first and second parentheses respectively   
   
 ## 快捷键(short cuts)  
 Ctrl+Alt+Enter 替换(rename)  

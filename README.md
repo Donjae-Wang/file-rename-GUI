@@ -19,4 +19,4 @@ for example
 Welcome to submit bugs and suggestions to me in issues, thanks ~   
    
    
-### [Releases+](https://gitee.com/TCMcoder/file-rename-GUI/releases/V0.1.0-beta)
+### [Releases+](https://github.com/Dr-WongDJ/file-rename-GUI/releases)
